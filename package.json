@@ -1,4 +1,5 @@
 {
+  
   "name": "zkpay",
   "version": "1.0.0",
   "description": "A confidential payroll and splits protocol using Midnight's privacy framework.",
