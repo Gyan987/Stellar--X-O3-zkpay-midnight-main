@@ -1,7 +1,5 @@
 # ZKPay: Confidential Payroll & Splits Protocol
 
-[![CI/CD Tests](https://github.com/gyan987/Stellar-X-O3-zkpay-midnight/actions/workflows/test.yml/badge.svg)](https://github.com/efekrbas/zkpay-midnight/actions/workflows/test.yml)
-
 ZKPay is a privacy-preserving dApp built on the **Midnight Network** using the Compact language. It enables organizations to manage payroll and allocate funds without exposing individual salaries or payee addresses to the public ledger.
 
 ## 🚀 Important Links
